@@ -1,4 +1,23 @@
-fastapi==0.115.2
-uvicorn==0.32.0
-python-dotenv==1.0.1
-requests==2.32.3
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																	faiss-cpu
+pandas
+numpy
+langchain
+langchain-google-genai
+langchain-community
+google-generativeai
+pypdf
+langgraph
+python-dotenv
+psycopg2-binary
+fastapi
+uvicorn
+pydantic
+langchain-ollama
+generativeai
+peft 
+transformers
+clickhouse-connect
+fastapi
+langchain_core
+langgraph
+langchain_google_genai
